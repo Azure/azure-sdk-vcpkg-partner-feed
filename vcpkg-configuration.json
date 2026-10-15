@@ -7,7 +7,7 @@
   "registries": [
     {
       "kind": "git",
-      "baseline": "aa01e8ed110c2ab7338b2c4ff8201070d31875be",
+      "baseline": "08f87362e9a676c43b5bb843bb69655c0cab2753",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-partner-feed",
       "packages": [
         "azure-template-cpp"

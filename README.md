@@ -1,5 +1,5 @@
 # Azure SDK Partner Feed Vcpkg Registry
-This repo contains vcpkg registry for a select set of Azure SDK release.
+This repo contains vcpkg registry for a select set of Azure SDK releases.
 
 ## Usage
 0. These instructions assume you know how to [get Azure SDK from the official vcpkg repo](https://github.com/Azure/azure-sdk-for-cpp#download--install-the-sdk). This document only documents the differences.

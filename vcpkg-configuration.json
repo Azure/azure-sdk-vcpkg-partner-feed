@@ -1,0 +1,17 @@
+{
+  "default-registry": {
+    "kind": "git",
+    "baseline": "9e593bb18ea69cc5095e012465dcd675a822ed0d",
+    "repository": "https://github.com/microsoft/vcpkg"
+  },
+  "registries": [
+    {
+      "kind": "git",
+      "baseline": "08f87362e9a676c43b5bb843bb69655c0cab2753",
+      "repository": "https://github.com/Azure/azure-sdk-vcpkg-partner-feed",
+      "packages": [
+        "azure-template-cpp"
+      ]
+    }
+  ]
+}

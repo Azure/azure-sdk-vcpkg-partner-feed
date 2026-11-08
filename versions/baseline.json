@@ -1,5 +1,9 @@
 {
   "default": {
+    "azure-storage-blobs-cpp": {
+      "baseline": "12.20.0",
+      "port-version": 0
+    },
     "azure-storage-common-cpp": {
       "baseline": "12.16.0",
       "port-version": 0

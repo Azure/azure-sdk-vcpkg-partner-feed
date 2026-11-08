@@ -7,9 +7,10 @@
   "registries": [
     {
       "kind": "git",
-      "baseline": "226bedb8c9291436afc7528a96dea380163c6948",
+      "baseline": "073b7c8ba13435a0d53b2f7524dc0dd13502917e",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-partner-feed",
       "packages": [
+        "azure-storage-common-cpp",
         "azure-template-cpp"
       ]
     }

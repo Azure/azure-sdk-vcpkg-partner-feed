@@ -7,13 +7,14 @@
   "registries": [
     {
       "kind": "git",
-      "baseline": "09045582639d11ce9816b1a48bbb3f8b07686517",
+      "baseline": "1f5f9de4ca39b6fa2fe327d53898bc42917925be",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-partner-feed",
       "packages": [
         "azure-storage-blobs-cpp",
         "azure-storage-common-cpp",
         "azure-storage-files-datalake-cpp",
         "azure-storage-files-shares-cpp",
+        "azure-storage-queues-cpp",
         "azure-template-cpp"
       ]
     }

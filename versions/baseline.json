@@ -12,6 +12,10 @@
       "baseline": "12.18.0",
       "port-version": 0
     },
+    "azure-storage-files-shares-cpp": {
+      "baseline": "12.20.0",
+      "port-version": 0
+    },
     "azure-template-cpp": {
       "baseline": "1.1.0-beta.6982122",
       "port-version": 0
